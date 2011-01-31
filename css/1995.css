@@ -20,14 +20,15 @@ body {
 .superHeader img { vertical-align: bottom; }
 
 .superHeader a {
-  color: black;
+  color: blue;
   background-color: transparent;
   font-size: 91%;
   margin: 0;
   padding: 0 0.5ex 0 0.25ex;
+  text-decoration: underline; }
 }
 
-a { text-decoration: none; }
+a { text-decoration: underline; }
 a:hover { text-decoration: underline; }
 
 .superHeader div {
